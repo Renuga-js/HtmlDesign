@@ -70,6 +70,11 @@ It represents a fully structured beginner-level webpage using only HTML elements
 6. Right click the project and select **Open Folder in File Explorer**.
 7. Double click `Registration.html`to open it in your browser.
 
+## 📸 Output
+
+![Student Registration Output](output.png)
+
+
 ## 💡 Purpose
 
 This project is fully designed using only basic HTML elements for learning and practice.
